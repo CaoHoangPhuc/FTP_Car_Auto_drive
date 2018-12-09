@@ -1,0 +1,11 @@
+<launch>
+
+	<include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch">
+		<param name="port" value="9090"/>
+	</include>
+
+	<node pkg="car_drive" name="main" type="main.py" output="screen"> 
+	</node>
+
+
+</launch>
