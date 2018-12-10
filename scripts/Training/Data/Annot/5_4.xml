@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Training</folder>
+	<filename>5_4.jpg</filename>
+	<path>/home/fukuki/catkin_ws/keras-yolo3/Training/Data/Training/5_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>73</ymin>
+			<xmax>114</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
