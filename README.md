@@ -1,5 +1,4 @@
 # FPT_Car_Auto_drive
-## Introduction
 
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 
